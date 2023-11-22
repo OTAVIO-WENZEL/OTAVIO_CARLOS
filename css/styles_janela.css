@@ -1,0 +1,12 @@
+div{
+  margin-top: 40px;
+  text-align: center;
+  max-width: 100%;
+  display: block;
+}
+
+.janelaSite{
+      width: 95%;
+      height: 80vh;
+      border: 1px solid #ccc;
+}
